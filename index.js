@@ -23,10 +23,10 @@ const questions = () => {
         name: 'usage',
         message: 'How should your project be used?',
         },
-    /*     {type: 'input',
+        {type: 'input',
         name: 'credits',
         message: 'Did you have any collaborators?',
-        }, */
+        },
     ])
 }
 
@@ -44,6 +44,9 @@ ${answers.installation}
 
 ## Usage
 ${answers.usage}
+
+##Collaborators
+${answers.credits}
 `
 
 
