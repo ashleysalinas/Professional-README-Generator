@@ -1,5 +1,6 @@
 # Professional-README-Generator
-Week 7 - NodeJS assignment for the Trilogy/Southern Methodist University Web Development Bootcamp
+![](prg.gif)
+Week 7 - NodeJS assignment for the Trilogy/Southern Methodist University Web Development Bootcamp.
 
 ## About
 This project was created for Week 7 - Node JS of the Trilogy/Southern Methodist University Web Development Bootcamp. It is a CLI application that uses user input to create README files for projects. The app then automatically inserts the created file into the project repository.
